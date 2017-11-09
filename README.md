@@ -1,2 +1,2 @@
 # brack-it
-Bracketing Software
+Tournament Bracketing Software for Mobile and Desktop Devices
